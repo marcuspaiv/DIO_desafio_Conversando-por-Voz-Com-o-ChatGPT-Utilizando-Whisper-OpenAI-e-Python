@@ -153,8 +153,8 @@ Modelos GPT4All Disponíveis
 👨‍💻 Autor
 Marcus Paiva
 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white https://github.com/marcuspaiv
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://www.linkedin.com/in/marcus-paiva-b10339186/
+GitHub: https://github.com/marcuspaiv
+Linkedin: https://www.linkedin.com/in/marcus-paiva-b10339186/
 
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
