@@ -108,68 +108,61 @@ graph LR
     H --> I[Usuário Escuta]
 ```
 
-💬 Exemplo de Uso:
+## 💬 Exemplo de Uso
 
-  🎤 Entrada do usuário (voz)
-  "Qual é a capital do Brasil?"
+```
+🎤 Entrada do usuário (voz): "Qual é a capital do Brasil?"
 
-  💬 Resposta do sistema (texto e voz)
-  "A capital do Brasil é Brasília, localizada na região Centro-Oeste do país. 
-  Foi inaugurada em 1960 e é conhecida por sua arquitetura moderna 
-  projetada por Oscar Niemeyer."
+💬 Resposta do sistema (texto e voz):
+"A capital do Brasil é Brasília, localizada na região Centro-Oeste do país."
+```
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
-├── Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT.ipynb  # Notebook principal
-├── README.md                                                     # Documentação
-├── LICENSE                                                       # Licença MIT
-└── requirements.txt                                              # Dependências
+```
+├── Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT.ipynb
+├── README.md
+├── LICENSE
+└── requirements.txt
+```
+## ⚠️ Observações Importantes
 
-⚠️ Observações Importantes
-Atenção	Detalhe
-📥 Primeira execução	O modelo GPT4All (~4GB) será baixado automaticamente. Pode levar vários minutos.
-💾 Memória RAM	Recomendado mínimo de 8GB para execução suave.
-🎙️ Microfone	Necessário permitir acesso no navegador quando solicitado.
-⏰ Sessão Colab	O Google Colab desconecta após inatividade prolongada. Salve seu progresso!
-🚧 Melhorias Futuras
-Implementar gravação contínua com detecção de silêncio
+| ⚠️ Atenção | Detalhe |
+|------------|---------|
+| 📥 Primeira execução | O modelo GPT4All (~4GB) será baixado automaticamente. |
+| 💾 Memória RAM | Recomendado mínimo de 8GB para execução suave. |
+| 🎙️ Microfone | Necessário permitir acesso no navegador quando solicitado. |
+| ⏰ Sessão Colab | O Google Colab desconecta após inatividade prolongada. |
 
-Adicionar interface gráfica com Gradio
+## 🚧 Melhorias Futuras:
+- [ ] Implementar gravação contínua com detecção de silêncio
+- [ ] Adicionar interface gráfica com Gradio
+- [ ] Criar versão desktop standalone
+- [ ] Adicionar cache de respostas para perguntas frequentes
+- [ ] Implementar modo conversação contínua
+- [ ] Suporte a mais modelos de linguagem
 
-Criar versão desktop standalone
+## 📚 Referências e Recursos
+- [GPT4All Documentation](https://docs.gpt4all.io)
+- [Google Speech Recognition](https://pypi.org/project/SpeechRecognition/)
+- [gTTS Documentation](https://gtts.readthedocs.io)
+- [Google Colab](https://colab.research.google.com)
+- Modelos GPT4All Disponíveis
 
-Adicionar cache de respostas para perguntas frequentes
+## 👨‍💻 Autor
 
-Implementar modo conversação contínua
-
-Suporte a mais modelos de linguagem
-
-📚 Referências e Recursos
-GPT4All Documentation
-
-Google Speech Recognition
-
-gTTS Documentation
-
-Google Colab
-
-Modelos GPT4All Disponíveis
-
-👨‍💻 Autor
 Marcus Paiva
 
-GitHub: https://github.com/marcuspaiv
-Linkedin: https://www.linkedin.com/in/marcus-paiva-b10339186/
+- **GitHub:** [@marcuspaiv](https://github.com/marcuspaiv)
+- **LinkedIn:** [Marcus Paiva](https://www.linkedin.com/in/marcus-paiva-b10339186/)
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-🌟 Dê uma estrela!
+## 🌟 Dê uma estrela!
 Se este projeto foi útil para você, considere dar uma ⭐ no GitHub! Isso me ajuda a saber que estou no caminho certo.
 
 <div align="center">
-Feito com ☕ e Python
-
-⬆ Voltar ao topo
-
-</div> ```
+  <br>
+  Feito com ☕ e 🐍 Python por <a href="https://github.com/marcuspaiv">Marcus Paiva</a>
+</div>
