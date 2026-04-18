@@ -1,6 +1,6 @@
 # 🎙️ Assistente de Voz com IA Local (GPT4All)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcuspaiv/DIO_desafio_Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-/blob/main/Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18PgBDoIdtpWCV-5wwgtPaE-VzmdbhVnZ?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Made with Colab](https://img.shields.io/badge/Made%20with-Colab-orange.svg)](https://colab.research.google.com/)
@@ -57,7 +57,7 @@ Este projeto implementa um **Assistente de Voz totalmente gratuito e offline** q
    
    Clique no botão abaixo para abrir diretamente no Colab:
    
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcuspaiv/DIO_desafio_Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-/blob/main/Assistente_de_Voz_Multi_Idiomas_Com_Whisper_e_ChatGPT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18PgBDoIdtpWCV-5wwgtPaE-VzmdbhVnZ?usp=sharing)
 
 2. **Execute as células sequencialmente**
    
