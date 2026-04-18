@@ -83,6 +83,7 @@ Este projeto implementa um **Assistente de Voz totalmente gratuito e offline** q
 # Alterar tempo de gravação (padrão: 5 segundos)
 record_file = record(sec=10)  # Grava por 10 segundos
 
+
 # Mudar idioma da resposta
 language = 'pt'  # Português
 language = 'en'  # Inglês
@@ -91,8 +92,11 @@ language = 'fr'  # Francês
 
 # Selecionar outro modelo GPT4All
 model_name = "ggml-model-gpt4all-falcon-q4_0.gguf"  # Modelo alternativo
+```
 
-📊 Fluxo de Execução
+## 📊 Fluxo de Execução
+
+```mermaid
 graph LR
     A[Usuário Fala] --> B[Grava Áudio]
     B --> C[Google Speech Recognition]
@@ -102,6 +106,7 @@ graph LR
     F --> G[gTTS - Síntese de Voz]
     G --> H[Resposta em Áudio]
     H --> I[Usuário Escuta]
+```
 
 💬 Exemplo de Uso:
 
